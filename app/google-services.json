@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "902077306322",
+    "firebase_url": "https://notificationtest-1d882.firebaseio.com",
+    "project_id": "notificationtest-1d882",
+    "storage_bucket": "notificationtest-1d882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902077306322:android:284fc5146760d348",
+        "android_client_info": {
+          "package_name": "com.snape.shivichu.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902077306322-q2tgf2ngofqt463q9lnoak60tc9e48m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvy0qeFaXKS4FiGa5Jkfvx3T-PFtJ5j0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902077306322:android:fd9aa71a796c1a07",
+        "android_client_info": {
+          "package_name": "com.example.glaube_nikesh.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902077306322-q2tgf2ngofqt463q9lnoak60tc9e48m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvy0qeFaXKS4FiGa5Jkfvx3T-PFtJ5j0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902077306322:android:96218a44a601a6b9",
+        "android_client_info": {
+          "package_name": "com.wesix.witscon.testchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902077306322-q2tgf2ngofqt463q9lnoak60tc9e48m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvy0qeFaXKS4FiGa5Jkfvx3T-PFtJ5j0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902077306322:android:7276ba2f365cc71d",
+        "android_client_info": {
+          "package_name": "com.wesix.witscon.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902077306322-q2tgf2ngofqt463q9lnoak60tc9e48m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvy0qeFaXKS4FiGa5Jkfvx3T-PFtJ5j0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
